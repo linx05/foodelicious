@@ -1015,11 +1015,11 @@ p {
   padding-top: 30px !important;
 }
 #fh5co-contact .fh5co-heading .heading:before, #fh5co-contact .fh5co-heading .heading::before {
-  height: 61px;
-  width: 61px;
+  height: 64px;
+  width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0203-coffee-love.png) no-repeat;
+  background: url(../images/logo/64.png) no-repeat;
   top: 0;
   left: 50%;
   margin-top: -50px;
